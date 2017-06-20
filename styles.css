@@ -1,0 +1,62 @@
+#body {
+  text-decoration: none;
+}
+
+#logo {
+  position: relative;
+  top: 190px;
+  left: 39%;
+}
+
+#sb {
+  width: 632px;
+  margin-top: -3px;
+  position: relative;
+  left: 25%;
+  top: 200px;
+}
+
+#search {
+  width: 632px;
+}
+
+#nav {
+  position: absolute;
+  top: 0%;
+  right: 0;
+  width: 100%;
+  font-size: 13px
+}
+
+#nav1 {
+  width: 223px;
+  float: right;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  text-align: right;
+  align-items: center;
+}
+
+#nav2 {
+  min-width: 223px;
+  text-decoration: none;
+}
+
+#gmail {
+  line-height: normal;
+  text-align: left;
+  font-size: 13px;
+}
+
+#gmail:hover {
+  text-decoration: underline;
+}
+
+ol {
+    list-style-type: none;
+}
+
+li a {
+  display: inline;
+}
